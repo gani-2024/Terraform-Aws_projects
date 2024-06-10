@@ -1,7 +1,7 @@
 # Terraform-Aws_projects
 Terraform-Aws_projects
 
-Lets take a machine from Aws EC2 machine 
+Aws cli and Terraform cli installed interpreter
 
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
